@@ -1,0 +1,1 @@
+Command uname in ubuntu
